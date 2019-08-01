@@ -1,0 +1,17 @@
+
+
+JAX-WS tutorials :
+
+  https://www.mkyong.com/tutorials/jax-ws-tutorials/
+  
+  xx
+
+
+
+JAX-WS with Tomcat :
+
+  https://www.mkyong.com/webservices/jax-ws/deploy-jax-ws-web-services-on-tomcat/ 
+
+  https://www.journaldev.com/9133/jax-ws-web-service-deployment-on-tomcat-server
+  
+  xx
